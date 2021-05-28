@@ -1,5 +1,5 @@
 <h1 align="center">
-React Color Platette
+React Color Palette
 </h1>
 <p align="center">
 <img src="https://forthebadge.com/images/badges/built-with-love.svg">
@@ -23,5 +23,17 @@ You will also see any lint errors in the console.
 
 ## Screenshots
 
-# Home Page
+### Home Page
 ![img](https://github.com/Cauchy1230/color_app/blob/master/Screenshot/home.JPG)
+
+### Palette View
+
+You can copy color with the choosen type(HEX, RGB, RGBA)
+
+![img](https://github.com/Cauchy1230/color_app/blob/master/Screenshot/platette.JPG)
+
+### Create your own palette
+
+You can create your own palette!
+
+![img](https://github.com/Cauchy1230/color_app/blob/master/Screenshot/new.JPG)
