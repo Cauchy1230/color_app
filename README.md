@@ -23,3 +23,5 @@ You will also see any lint errors in the console.
 
 ## Screenshots
 
+# Home Page
+![img](https://github.com/Cauchy1230/color_app/blob/master/Screenshot/home.JPG)
